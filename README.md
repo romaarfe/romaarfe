@@ -1,4 +1,4 @@
-## Olá, eu sou o Rodrigo Fernandes! 🖖
+## Olá, eu sou o Rodrigo! 🖖
 
 - 🦾 Em reposicionamento profissional
 - 📊 Estudando Python e Data Science
