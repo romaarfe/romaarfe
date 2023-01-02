@@ -1,7 +1,7 @@
 ## Olá, eu sou o Rodrigo! 🖖
 
-- 🦾 Em reposicionamento profissional
-- 📊 Estudando Python e Data Science
+- 🦾 Em transição de carreira: de Biólogo à Programador!
+- 📊 Percurso de estudos: Python, SQL, Data Science... atualmente estudando programação para solidificar as bases (C, C++, Visual Basic, HTML, CSS...)
 - 🤓 Pronomes: ele/dele
 - ❤ Fun fact: sou apaixonado pela minha família, por tabletop role-playing game e tattoos
 
