@@ -1,26 +1,14 @@
 ## Olá, eu sou o Rodrigo! 🖖
 
-- 🦾 Em transição de carreira: de Biólogo à Programador!
-- 📊 Percurso de estudos: Python, SQL, Data Science... atualmente estudando programação para solidificar as bases (C, C++, Visual Basic, HTML, CSS...)
-- 🤓 Pronomes: ele/dele
-- ❤ Fun fact: sou apaixonado pela minha família, por tabletop role-playing game e tattoos
+- 🦾 Em transição de carreira: De Biólogo e Gestor Ambiental para Desenvolvedor de Software/Programador!
+- 📊 Percurso de estudos: Comecei de forma autônoma em Python, SQL e temas relacionados à Data Science e Data Engineering... atualmente estou no fim de uma formação para solidificar as bases e desenvolver novas competências.
+- 👨‍💻 Linguagens e outras tecnologias estudadas: C, C++, Visual Basic .NET, HTML, CSS, Javascript, Python, Java, C#, ASP.NET Core)
+- ❤️ Fun fact: Sou apaixonado pela minha família, gatos, RPG e tattoos.
 
 <div align="center">
   <a href="https://github.com/romaarfe">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=romaarfe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaarfe&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rod-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Rod-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Rod-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Rod-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rod-Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
-  <img align="center" alt="Rod-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Rod-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Rod-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Rod-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
-  <img align="center" alt="Rod-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
   
   ##
