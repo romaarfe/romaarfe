@@ -4,7 +4,7 @@
 
 - 📊 Percurso de estudos: Comecei de forma autônoma em Python, SQL e temas relacionados à Data Science e Data Engineering... atualmente estou no fim de uma formação para solidificar as bases e desenvolver novas competências.
 
-- 👨‍💻 Linguagens e outras tecnologias estudadas: C, C++, Visual Basic .NET, HTML, CSS, Javascript, Python, Java, C#, ASP.NET Core
+- 👨‍💻 Principais tecnologias estudadas: C, C++, Visual Basic .NET, SQL, Python, Java, C#, ASP.NET Core.
 
 - ❤️ Fun fact: Sou apaixonado pela minha família, gatos, RPG e tattoos.
 
