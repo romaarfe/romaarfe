@@ -2,7 +2,7 @@
 
 - 🦾 Em transição de carreira: De Biólogo e Gestor Ambiental para Desenvolvedor de Software/Programador!
 
-- 📊 Percurso de estudos: Comecei de forma autônoma em Python, SQL e temas relacionados à Data Science e Data Engineering... atualmente estou no fim de uma formação para solidificar as bases e desenvolver novas competências.
+- 📊 Percurso de estudos: Comecei de forma autônoma em Python, SQL e temas relacionados à Data Science e Data Engineering... atualmente estou no fim de uma formação para solidificar as bases da Programação e desenvolver novas competências.
 
 - 👨‍💻 Principais tecnologias estudadas: C, C++, Visual Basic .NET, SQL, Python, Java, C#, ASP.NET Core.
 
