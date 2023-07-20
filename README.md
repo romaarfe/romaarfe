@@ -41,6 +41,6 @@
  
 <div>
  
-  ![snake animation](https://github.com/romaarfe/romaarfe/blob/output/github-contribution-grid-snake.svg)
+  ![snake animation](https://github.com/romaarfe/romaarfe/raw/output/github-contribution-grid-snake.svg)
  
 </div>
