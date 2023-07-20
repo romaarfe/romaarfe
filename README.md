@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=romaarfe.romaarfe&left_color=red&right_color=green&left_text=HelloVisitors" />
 
-
-## Olá, eu sou o Rodrigo! 🖖
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+There+%F0%9F%96%96!;I'm+Rodrigo+Fernandes!+" alt="Typing SVG" />
+  </a>
+</h1>
 
 - 🦾 Em transição de carreira: De Biólogo e Gestor Ambiental para Desenvolvedor de Software/Programador!
 
