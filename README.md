@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
+
 ## Olá, eu sou o Rodrigo! 🖖
 
 - 🦾 Em transição de carreira: De Biólogo e Gestor Ambiental para Desenvolvedor de Software/Programador!
