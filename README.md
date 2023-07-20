@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=romaarfe.romaarfe&left_color=red&right_color=green&left_text=HelloVisitors)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=romaarfe.romaarfe&left_color=red&right_color=green&left_text=HelloVisitors" />
 
 
 ## Olá, eu sou o Rodrigo! 🖖
