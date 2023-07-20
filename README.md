@@ -40,7 +40,5 @@
 ##
  
 <div>
- 
-  ![snake animation](https://github.com/romaarfe/romaarfe/raw/output/github-contribution-grid-snake.svg)
- 
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/romaarfe/romaarfe/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/romaarfe/romaarfe/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
 </div>
