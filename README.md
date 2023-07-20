@@ -1,4 +1,7 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
+<div align="right">
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+</div>
+
 
 ## Olá, eu sou o Rodrigo! 🖖
 
