@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=romaarfe.romaarfe&left_text=My%20Page%20Visitors" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+There+%F0%9F%96%96!;I'm+Rodrigo+Fernandes!+" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi%2C+There+%F0%9F%96%96!;I'm+Rodrigo+Fernandes!+" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -65,6 +65,6 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+visiting!+%F0%9F%A4%98;Shoot+me+a+message+on+LinkedIn!;May+the+Force+be+with+you!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Thanks+for+visiting!+%F0%9F%A4%98;Shoot+me+a+message+on+LinkedIn!;May+the+Force+be+with+you!" alt="Typing SVG" />
   </a>
 </h3>    
