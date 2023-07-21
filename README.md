@@ -11,7 +11,7 @@
 
 <div align="left">
   
-  🦾 I´m currently working  with (and also learning) **Linux/Ubuntu, C/C++, Cmake/qMake, SQLite/SQLCipher and QT Creator/Framework**
+  🦾 I´m currently working  with (and also learning) **Linux/Ubuntu, C/C++, CMake/qmake, SQLite/SQLCipher and QT Creator/Framework**
   
   ❤️ **In love with my family**, but also with dinosaurs, cats, tattoos and RPG
   
