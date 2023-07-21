@@ -66,7 +66,7 @@
   <a href="https://github.com/romaarfe">
     <img height="180em" src="https://streak-stats.demolab.com/?user=romaarfe&theme=highcontrast" /> &nbsp;&nbsp;
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romaarfe&show_icons=true&theme=vision-friendly-dark" /> &nbsp;&nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaarfe&theme=vision-friendly-dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaarfe&layout=compact&theme=vision-friendly-dark" />
   </a>
 </div>
 
