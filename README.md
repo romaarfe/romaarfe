@@ -47,13 +47,24 @@
   <h2>🐍 My Contribution 🐍</h2>
   <br>
   <img alt="snake" src="https://raw.githubusercontent.com/romaarfe/romaarfe/output/github-contribution-grid-snake.svg">
-
+  
   <br/><br/><br/>
 </div>
 
 <hr/>
 
 <h2 align="center">🔥 Stats 🔥</h2>
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=romaarfe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/> 
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romaarfe&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-          
+<br>
+<div align="center">
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=romaarfe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" /> 
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romaarfe&layout=compact&langs_count=7&theme=vision-friendly-dark" />
+</div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+visiting!+%F0%9F%A4%98;Shoot+me+a+message+on+LinkedIn!;May+the+Force+be+with+you!" alt="Typing SVG" />
+  </a>
+</h3>    
