@@ -58,7 +58,8 @@
 <h2 align="center">🔥 Stats 🔥</h2>
 <br>
 <div align="center">
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=romaarfe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="130em" src="https://streak-stats.demolab.com/?user=romaarfe&theme=dark)](https://git.io/streak-stats" /> &nbsp;&nbsp;
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=romaarfe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" /> &nbsp;&nbsp;
   <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romaarfe&layout=compact&langs_count=7&theme=vision-friendly-dark" />
 </div>
 
