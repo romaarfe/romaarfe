@@ -5,9 +5,17 @@
   </a>
 </h1>
 
-<h3 align="left">- 🦾 From Biologist and Environmental Manager to Software Developer!</h3>
+<h3 align="center">From Biologist and Environmental Manager to Software Developer!</h3>
 
-<h3 align="left">- ❤️ In love with my family, but also with dinosaurs, cats, tattoos and RPG!</h3>
+<br/>
+
+<div align="left">
+  
+  🦾 I´m currently working  with (and also learning) **Linux/Ubuntu, C/C++, Cmake/qMake, SQLite/SQLCipher and QT Creator/Framework**
+  
+  ❤️ **In love with my family**, but also with dinosaurs, cats, tattoos and RPG
+  
+</div>
 
 <div align="center">
   <a href="https://github.com/romaarfe">
