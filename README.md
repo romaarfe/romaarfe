@@ -64,9 +64,9 @@
 <br>
 <div align="center">
   <a href="https://github.com/romaarfe">
-    <img height="150em" src="https://streak-stats.demolab.com/?user=romaarfe&theme=highcontrast" /> &nbsp;&nbsp;
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=romaarfe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" /> &nbsp;&nbsp;
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaarfe&layout=compact&langs_count=7&theme=vision-friendly-dark" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=romaarfe&theme=highcontrast" /> &nbsp;&nbsp;
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romaarfe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" /> &nbsp;&nbsp;
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaarfe&layout=compact&langs_count=7&theme=vision-friendly-dark" />
   </a>
 </div>
 
