@@ -1,7 +1,12 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=romaarfe.romaarfe&left_text=My%20Page%20Visitors" />
+<div align="right">
+  <a href="https://github.com/romaarfe">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=romaarfe.romaarfe&left_text=My%20Page%20Visitors" />
+  </a>
+</div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi%2C+There+%F0%9F%96%96!;I'm+Rodrigo+Fernandes!+" alt="Typing SVG" />
+  <a href="https://github.com/romaarfe">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi%2C+There+%F0%9F%96%96!;I'm+Rodrigo+Fernandes!+" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -47,9 +52,9 @@
 
 <div align="center">
   <h2>🐍 My Contribution 🐍</h2>
-  
-  <img alt="snake" src="https://raw.githubusercontent.com/romaarfe/romaarfe/output/github-contribution-grid-snake-dark.svg">
-  
+  <a href="https://github.com/romaarfe">
+    <img alt="snake" src="https://raw.githubusercontent.com/romaarfe/romaarfe/output/github-contribution-grid-snake-dark.svg">
+  </a>
   <br/>
 </div>
 
@@ -58,16 +63,18 @@
 <h2 align="center">🔥 Stats 🔥</h2>
 <br>
 <div align="center">
-  <img height="130em" src="https://streak-stats.demolab.com/?user=romaarfe&theme=highcontrast" /> &nbsp;&nbsp;
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=romaarfe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" /> &nbsp;&nbsp;
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romaarfe&layout=compact&langs_count=7&theme=vision-friendly-dark" />
+  <a href="https://github.com/romaarfe">
+    <img height="130em" src="https://streak-stats.demolab.com/?user=romaarfe&theme=highcontrast" /> &nbsp;&nbsp;
+    <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=romaarfe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" /> &nbsp;&nbsp;
+    <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romaarfe&layout=compact&langs_count=7&theme=vision-friendly-dark" />
+  </a>
 </div>
 
 <br/>
 <hr/>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/romaarfe">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Thanks+for+visiting!+%F0%9F%A4%98;Shoot+me+a+message+on+LinkedIn!;May+the+Force+be+with+you!" alt="Typing SVG" />
   </a>
 </h3>    
