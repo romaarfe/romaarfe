@@ -45,10 +45,10 @@
 
 <div align="center">
   <h2>🐍 My Contribution 🐍</h2>
-  <br>
+  
   <img alt="snake" src="https://raw.githubusercontent.com/romaarfe/romaarfe/output/github-contribution-grid-snake.svg">
   
-  <br/><br/>
+  <br/>
 </div>
 
 <hr/>
