@@ -5,13 +5,9 @@
   </a>
 </h1>
 
-- 🦾 Em transição de carreira: De Biólogo e Gestor Ambiental para Desenvolvedor de Software/Programador!
+<h3 align="center">- 🦾 From Biologist and Environmental Manager to Software Developer!</h3>
 
-- 📊 Percurso de estudos: Comecei de forma autônoma em Python, SQL e temas relacionados à Data Science e Data Engineering... atualmente estou no fim de uma formação para solidificar as bases da Programação e desenvolver novas competências.
-
-- 👨‍💻 Principais tecnologias estudadas: C, C++, Visual Basic .NET, SQL, Python, Flask, Java, Java para Web, C#, ASP.NET Core, HTML, CSS.
-
-- ❤️ Fun fact: Sou apaixonado pela minha família, gatos, RPG e tattoos.
+<h3 align="center">- ❤️ In love with my family, but also with dinosaurs, cats, tattoos and RPG!</h3>
 
 <div align="center">
   <a href="https://github.com/romaarfe">
