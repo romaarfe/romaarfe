@@ -21,10 +21,10 @@
 
 <div align="center">
   <a href="mailto:romaarfe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> &nbsp;&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/romaarfe/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp;&nbsp;
   </a>
   <a href="https://www.datacamp.com/portfolio/romaarfe">
     <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
@@ -58,8 +58,8 @@
 <h2 align="center">🔥 Stats 🔥</h2>
 <br>
 <div align="center">
-  <img height="130em" src="https://streak-stats.demolab.com/?user=romaarfe&theme=highcontrast" />
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=romaarfe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+  <img height="130em" src="https://streak-stats.demolab.com/?user=romaarfe&theme=highcontrast" /> &nbsp;&nbsp;
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=romaarfe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" /> &nbsp;&nbsp;
   <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romaarfe&layout=compact&langs_count=7&theme=vision-friendly-dark" />
 </div>
 
