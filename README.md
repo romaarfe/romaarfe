@@ -48,7 +48,7 @@
   <br>
   <img alt="snake" src="https://raw.githubusercontent.com/romaarfe/romaarfe/output/github-contribution-grid-snake.svg">
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
@@ -60,7 +60,7 @@
   <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romaarfe&layout=compact&langs_count=7&theme=vision-friendly-dark" />
 </div>
 
-<br/><br/>
+<br/>
 <hr/>
 
 <h3 align="center">
