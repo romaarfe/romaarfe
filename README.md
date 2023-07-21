@@ -5,9 +5,9 @@
   </a>
 </h1>
 
-<h3 align="center">- 🦾 From Biologist and Environmental Manager to Software Developer!</h3>
+<h3 align="left">- 🦾 From Biologist and Environmental Manager to Software Developer!</h3>
 
-<h3 align="center">- ❤️ In love with my family, but also with dinosaurs, cats, tattoos and RPG!</h3>
+<h3 align="left">- ❤️ In love with my family, but also with dinosaurs, cats, tattoos and RPG!</h3>
 
 <div align="center">
   <a href="https://github.com/romaarfe">
