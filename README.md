@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="mailto:romaarfe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/romaarfe/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -48,7 +48,7 @@
 <div align="center">
   <h2>🐍 My Contribution 🐍</h2>
   
-  <img alt="snake" src="https://raw.githubusercontent.com/romaarfe/romaarfe/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/romaarfe/romaarfe/output/github-contribution-grid-snake-dark.svg">
   
   <br/>
 </div>
