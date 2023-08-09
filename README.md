@@ -64,9 +64,9 @@
 <br>
 <div align="center">
   <a href="https://github.com/romaarfe">
-    <img height="180mm" src="https://github-readme-streak-stats.herokuapp.com/?user=romaarfe&theme=tokyonight&hide_border=false" /> &nbsp;&nbsp;
-    <img height="180mm" src="https://github-readme-stats.vercel.app/api?username=romaarfe&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /> &nbsp;&nbsp;
-    <img height="180mm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaarfe&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
+    <img height="180mm" src="https://github-readme-streak-stats.herokuapp.com/?user=romaarfe&theme=tokyonight" /> &nbsp;&nbsp;
+    <img height="180mm" src="https://github-readme-stats.vercel.app/api?username=romaarfe&theme=tokyonight&show_icons=true&count_private=true" /> &nbsp;&nbsp;
+    <img height="180mm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaarfe&theme=tokyonight&show_icons=true&layout=compact" />
   </a>
 </div>
 
