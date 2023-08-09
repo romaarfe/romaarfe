@@ -10,7 +10,7 @@
   </a>
 </h1>
 
-<h3 align="center">From Biologist and Environmental Manager to Software Developer!</h3>
+<h3 align="center">From Biologist and Environmental Manager to SOFTWARE DEVELOPER!</h3>
 
 <br/>
 
