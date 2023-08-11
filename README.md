@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://github.com/romaarfe">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hello%2C+There+%F0%9F%96%96!;I'm+Rodrigo+Fernandes!+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hello%2C+There!;I'm+Rodrigo+Fernandes!+" alt="Typing SVG" />
   </a>
 </h1>
 
