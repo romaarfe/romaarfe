@@ -14,13 +14,13 @@
 
 <br/>
 
-<h4 align="left">
+<h3 align="left">
   
   🦾 I'm currently working  with **Linux/Ubuntu, C/C++, CMake/qmake, SQLite/SQLCipher and QT Creator/Framework**
   
   ❤️ **In love with my family**, but also with dinosaurs, cats, tattoos and RPG
   
-</h4>
+</h3>
 
 <br/>
 
