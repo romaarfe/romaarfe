@@ -38,7 +38,7 @@
 
 <hr/>
 
-<h2 align="center">👨‍💻 LANGUAGES - FRAMEWORKS - TOOLS 👨‍💻</h2>
+<h2 align="center">👨‍💻 Languages - Frameworks - Tools 👨‍💻</h2>
 <br/>
 <div align="center">
   <a href="https://github.com/romaarfe">
@@ -51,7 +51,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 MY CONTRIBUTION 🐍</h2>
+  <h2>🐍 My Contribution 🐍</h2>
   <a href="https://github.com/romaarfe">
     <img alt="snake" src="https://raw.githubusercontent.com/romaarfe/romaarfe/output/github-contribution-grid-snake-dark.svg">
   </a>
@@ -60,7 +60,7 @@
 
 <hr/>
 
-<h2 align="center">🔥 STATS 🔥</h2>
+<h2 align="center">🔥 Stats 🔥</h2>
 <br>
 <div align="center">
   <a href="https://github.com/romaarfe">
