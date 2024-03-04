@@ -42,8 +42,8 @@
 <br/>
 <div align="center">
   <a href="https://github.com/romaarfe">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,cs,dotnet,py,java,html,css,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,flask,git,github,linux,qt,replit,vim,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,cmake,cs,git,github,linux,qt,docker,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,py,java,html,css,bootstrap,sqlite,mysql,flask,,replit,vim,visualstudio,vscode" />
   </a>
 </div>
 
