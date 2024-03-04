@@ -16,7 +16,7 @@
 
 <div align="left">
   
-  🦾 I'm currently working  with **Linux | Ubuntu, C | C++, CMake, SQLite | SQLCipher, QML and QT Creator | Framework**
+  🦾 I'm currently working  with **Linux | Ubuntu, C | C++ | Javascript | QML,  CMake, SQLite | SQLCipher | MongoDB and Qt Creator | Qt Framework**
   
   ❤️ **In love with my family**, but also with dinosaurs, cats, tattoos and RPG
   
