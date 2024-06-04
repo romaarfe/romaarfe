@@ -42,7 +42,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/romaarfe">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,cmake,github,linux,qt,docker,sqlite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,cmake,qt,docker,sqlite,mongodb,github,linux" />
   </a>
 </div>
 
